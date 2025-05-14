@@ -373,7 +373,7 @@ const AdminDashboard = () => {
       return
     }
 
-    const socket = io('http://localhost:3000', {
+    const socket = io('https://food-delivery-app-abcw.onrender.com', {
       auth: {
         token: authToken // Get token from your auth context or localStorage
       },
