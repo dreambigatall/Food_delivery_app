@@ -71,12 +71,13 @@ To get a local copy up and running, follow these simple steps.
 
 The frontend application should now be running on `http://localhost:3000` (or another port if configured).
 
-## Screenshots
+
+
+
+
+```
 ![Screenshot 2025-06-17 213501](https://github.com/user-attachments/assets/c75ea8d7-4ece-4130-b239-dd93d8bc7d9c)
 ![Screenshot 2025-06-17 213702](https://github.com/user-attachments/assets/7d5e9ec2-23f4-4995-8047-7a5f2f92f421)
 ![Screenshot 2025-06-17 213743](https://github.com/user-attachments/assets/551c3b7d-5e65-4ffd-bcf6-ab5f49e5e9ec)
 ![Screenshot 2025-06-17 213822](https://github.com/user-attachments/assets/0498a540-b619-4f9f-936c-f5797d45e7c3)
 ![Screenshot 2025-06-17 213844](https://github.com/user-attachments/assets/466c054a-4022-48d7-97a8-bbfef96460e9)
-
-
-```
